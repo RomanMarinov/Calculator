@@ -10,4 +10,6 @@
 Клиентская часть: android studio kotlin
 
 ## Скрины экрана 
-
+![1](https://user-images.githubusercontent.com/61028366/148612043-4ab4698c-57fb-41a1-b693-7f8d205b3c36.jpg)
+![2](https://user-images.githubusercontent.com/61028366/148612046-017cca99-748b-4329-a157-51146d09b2dd.jpg)
+![3](https://user-images.githubusercontent.com/61028366/148612049-1a4b051a-39f0-4754-b1fa-8e981011533f.jpg)
