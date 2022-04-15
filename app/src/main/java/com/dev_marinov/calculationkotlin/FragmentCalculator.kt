@@ -146,7 +146,7 @@ class FragmentCalculator : Fragment() {
     }
 
 
-    fun buttonsClickNumber() // слушатели кнопок с цифрами
+    fun buttonsClickNumber() // слушатели кнопок с  цифрами
     {
         bt_0!!.setOnClickListener {
             bt_0!!.alpha = 1f // анимания кнопки затухание
